@@ -1,0 +1,23 @@
+*{margin: 0%; padding: 0%;}
+ 
+/* aplicar estilos a las etiquetas */
+body {
+    background-color: aliceblue;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* estilos a clases */
+.titulo {
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+ .sirve {
+    border: 1px solid;
+    margin: 20px;
+    padding: 5px;
+    height: 150px;
+ }
